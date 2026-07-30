@@ -4,7 +4,7 @@
 **Full Name:** Suhaan Gupta
 **No. of Weeks:** 4
 **Project Name:** Uber Data Analysis
-**Project Scope:** Data Science & Analytics (Beginner Project)
+
 
 ---
 
