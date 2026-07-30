@@ -1,0 +1,9 @@
+UBER RIDE DATA - ANALYSIS SUMMARY
+Total rides: 500
+Total revenue: $6,827.48
+Average fare: $13.65
+Average distance: 8.51 km
+Average rating: 4.17 / 5
+Busiest hour: 8:00
+Most popular pickup area: Airport
+Distance-Fare correlation: 0.964
